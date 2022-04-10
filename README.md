@@ -58,6 +58,7 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 
 ---
 **Project 2:** The second projects aims to test the mastery  content covered on the past two chapters, covered so far, first aims to ensure retention of all the information from section one (Python fundamentals) and test the ability to build on top of Python fundamentals to integrate decision  making and flow control to solve real world problems using Python programming language. 
+
 ---
 **5 -  INTRODUCTION TO DATA STRUCTURES: PYTHON BUILT-IN DATA STRUCTURES**
 - Differences between data types and data structures in Python programming language. 
@@ -70,6 +71,7 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 
 --- 
 **Project 3:** This will focus on testing the mastery of built in data types in python, methods and operations that we can perform on Python programming language,  and how to build real world applications using the content covered so far. 
+
  ---
  
  6 - FUNCTIONS
@@ -81,6 +83,7 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 
 ---
 **Project 4:** This project is aims to see if you can write functions comfortably, these includes recursive functions that calls themselves and incorporating loops and conditional statements inside functions, it will also test if you have mastered  different scopes in python and the difference between arguments and parameters   
+
 ---
 **7 - CLASSES IN PYTHON**
 - Introduction to classes in Python.
@@ -98,9 +101,11 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 - Exceptions
 - Using try/catch/else/finally
 - Handling multiple exceptions
-- Ignoring exceptions 
+- Ignoring exceptions
+ 
 ---
 **Project 6:** This will focus on testing if you can correct bugs and refact your python code without breaking the functionality.
+
 ---
 **9 - WORKING WITH FILES**
 - File overview
@@ -110,7 +115,8 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 - Reading and writing raw (binary) data
 - Converting binary data with struct 
 ---
-**Project 7:** This project aims to test if you can handle files using Python programming language, this is opening files,  writing on it save and close. 
+**Project 7:** This project aims to test if you can handle files using Python programming language, this is opening files,  writing on it save and close.
+
 ---
 **10 - MODULES AND PACKAGES**
 - The import statement
@@ -120,6 +126,7 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 - Function and Module aliases
 ---
 **Project 8:** This project tests if you can install and import packages and the best packages handling practices.
+
 ---
 **11 - REGULAR EXPRESSIONS IN PYTHON**
 - RE syntax overview
@@ -131,6 +138,7 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 - Splitting strings
 ---
 **Project 9:** Project 9 tests if you can perform regular expressions using python, for instance getting a character from a file or text document. 
+
 ---
 **12 - NETWORK SERVICES**
 Grabbing web content, Sending email and Using SSH for remote access 
@@ -140,7 +148,7 @@ Grabbing web content, Sending email and Using SSH for remote access
 --- 
 **Final Project: Capstone Projects.** 
 These are two projects that test everything Python related to prepare you for any python related field, this might me, Python for data science and machine learning or python for web development. These projects will get you ready for junior python developers roles.
-—----------------------------------------------------------------------------------------------------------------------
+—--
 Here you are comfortable to specialize into Python for Data Science or for Web development.
 
 
