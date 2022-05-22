@@ -189,7 +189,7 @@ Python becomes the best solution in many domains from web applications, data ana
 
 ---
 #### **Advantages and disadvantages of Python programming language.**
-Advantages of Python
+**Advantages of Python.**
 - Easy to use and learn: For beginners, Python is straightforward to use. It is a high-level programming language, and its syntax is like the English language. These reasons make the language easy to learn and adapt to. Compared to Java and C, in Python, the same task can be performed using fewer lines of code. As a result of its easy learning, the principles in Python can be executed faster compared to other languages.
 
 - Increased productivity: Python is a very productive language. The simple nature of Python helps the developers to concentrate on solving the issues in it. To understand the syntax and behavior of the programming language, the users do not have to spend hours, so more work is done.
@@ -201,14 +201,21 @@ Advantages of Python
 
 - Supportive community: The Python language was created years ago, and hence it has a mature community that can support every type of developer, starting from beginners’ level to expert level. There are enough guides, tutorials, and documentation available on the Python programming language, which helps the developers to understand the language faster and better. Because of its supportive community, Python has rapid growth compared to other languages.
 
----
 
-#### **Disadvantages of Python**
+**Disadvantages of Python**
 
-Speed: Compared to Java or C, the rate of Python is slower. Python is an interpreted language that is dynamically typed. For the execution of a code, each line of the code needs to be explicitly ordered since the language gets interpreted. This is time-consuming, and hence it slows down the process of execution. The dynamic structure of Python also slows its speed because while executing the code, the excess work also needs to be completed. Therefore, in cases where fast acceleration is required, Python is not used there very commonly.
-Memory consumption: Python has a very high memory consumption. This is because it is flexible to the data types. It uses large amounts of memory. Python is not a good choice for tasks where the user wants to optimize memory, i.e., a memory-intensive language.
-Mobile development: Python is strong in server platforms and desktops, and hence it is a fantastic server-side programming language. But it is not appropriate for mobile development. For mobile development, Python is a fragile language. Since it is not memory efficient and has a prolonged power for processing, due to these reasons, Python does not have many built-in mobile applications. Carbonnelle is a built-in application present in Python.
-Database access: Python provides easy programming. However, when it interacts with the database, some issues arise. Compared to technologies like JDBC and ODBC, which are pretty famous, the database access layer of the Python programming language is primitive and underdeveloped. Large enterprises that usually need smooth interaction with complex legacy data do not prefer the usage of Python.
+- Speed: Compared to Java or C, the rate of Python is slower. Python is an interpreted language that is dynamically typed. For the execution of a code, each line of the code needs to be explicitly ordered since the language gets interpreted. This is time-consuming, and hence it slows down the process of execution. The dynamic structure of Python also slows its speed because while executing the code, the excess work also needs to be completed. Therefore, in cases where fast acceleration is required, Python is not used there very commonly.
+
+- Memory consumption: Python has a very high memory consumption. This is because it is flexible to the data types. It uses large amounts of memory. Python is not a good choice for tasks where the user wants to optimize memory, i.e., a memory-intensive language.
+
+- Mobile development: Python is strong in server platforms and desktops, and hence it is a fantastic server-side programming language. But it is not appropriate for mobile development. For mobile development, Python is a fragile language. Since it is not memory efficient and has a prolonged power for processing, due to these reasons, Python does not have many built-in mobile applications. Carbonnelle is a built-in application present in Python.
+
+- Database access: Python provides easy programming. However, when it interacts with the database, some issues arise. Compared to technologies like JDBC and ODBC, which are pretty famous, the database access layer of the Python programming language is primitive and underdeveloped. Large enterprises that usually need smooth interaction with complex legacy data do not prefer the usage of Python.
+
+- Runtime errors: The users of Python mentioned various issues they faced with the language design. Since the language of Python is dynamically typed, there can be changes in the data type of a variable at any time. Therefore, it needs to be tested more often, and also, there are errors in the language displayed during runtime.
+
+- Simplicity: Python is a straightforward and easy-to-use programming language which is also a disadvantage of the language. The users of Python get so accustomed to its easy syntax and extensive library feature that they face issues while learning other programming languages. Some users also feel that the Java codes are unnecessary due to their complexity. Therefore, Python has a very vulnerable nature, and the users start taking everything lightly.
+
 ---
 #### **Applications of Python.**
 - Artificial Intelligence
