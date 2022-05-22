@@ -26,7 +26,7 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 --- 
 **1 - AN OVERVIEW OF PYTHON**
 - What is python programming language?
-   
+- Common Feature Provided By python.  
 - Advantages and disadvantages of Python programming language.
 - Uses and application of Python programming language. 
 
@@ -155,7 +155,7 @@ Here you are comfortable to specialize into Python for Data Science or for Web d
 
 
 --- 
-### **What Is Python** 
+#### **What Is Python** 
 
 ![image](https://user-images.githubusercontent.com/51136314/169713121-418f5164-b538-4c99-8b19-500a9b229690.png)
 
@@ -167,7 +167,55 @@ Probably its most noticeable characteristic is its use of significant white spac
 
 End-of-line semicolons (;) are optional and usually not used in Python.
 
-Python becomes the best solution in many domains from web applications, data analysis, data science, machine learning, and AI.
+Python becomes the best solution in many domains from web applications, data analysis, data science, machine learning, and AI. 
+
+
+---
+#### **Common Feature Provided By python.**
+
+- Simplicity: Think less of the syntax of the language and more of the code.
+
+- Open Source: A powerful language and it is free for everyone to use and alter as needed.
+
+- Portability: Python code can be shared and it would work the same way it was intended to. Seamless and hassle-free.
+
+- Being Embeddable & Extensible: Python can have snippets of other languages inside it to perform certain functions.
+
+- Being Interpreted: The worries of large memory tasks and other heavy CPU tasks are taken care of by Python itself leaving you to worry only about coding.
+
+- Huge amount of libraries: Data Science? Python has you covered. Web Development? Python still has you covered.
+
+- Object Orientation: Objects help breaking-down complex real-life problems into such that they can be coded and solved to obtain solutions.
+
+---
+#### **Advantages and disadvantages of Python programming language.**
+Advantages of Python
+- Easy to use and learn: For beginners, Python is straightforward to use. It is a high-level programming language, and its syntax is like the English language. These reasons make the language easy to learn and adapt to. Compared to Java and C, in Python, the same task can be performed using fewer lines of code. As a result of its easy learning, the principles in Python can be executed faster compared to other languages.
+
+- Increased productivity: Python is a very productive language. The simple nature of Python helps the developers to concentrate on solving the issues in it. To understand the syntax and behavior of the programming language, the users do not have to spend hours, so more work is done.
+
+- Flexibility: This language is very flexible, and hence it allows the user to try new things. The users can develop new sorts of the application using Python programming language. The language does not restrict the user from trying something different. Other programming languages do not provide this type of flexibility and freedom, and hence Python is more preferred in these matters.
+
+- Extensive library: Python provides the user with a vast library. Python’s standard library is massive, and just about every function one needs to perform is available in its library. This is because it has a hugely supportive community and corporate sponsorship. External libraries are not used by users while working with Python. 
+
+
+- Supportive community: The Python language was created years ago, and hence it has a mature community that can support every type of developer, starting from beginners’ level to expert level. There are enough guides, tutorials, and documentation available on the Python programming language, which helps the developers to understand the language faster and better. Because of its supportive community, Python has rapid growth compared to other languages.
+
+---
+
+#### **Disadvantages of Python**
+
+Speed: Compared to Java or C, the rate of Python is slower. Python is an interpreted language that is dynamically typed. For the execution of a code, each line of the code needs to be explicitly ordered since the language gets interpreted. This is time-consuming, and hence it slows down the process of execution. The dynamic structure of Python also slows its speed because while executing the code, the excess work also needs to be completed. Therefore, in cases where fast acceleration is required, Python is not used there very commonly.
+Memory consumption: Python has a very high memory consumption. This is because it is flexible to the data types. It uses large amounts of memory. Python is not a good choice for tasks where the user wants to optimize memory, i.e., a memory-intensive language.
+Mobile development: Python is strong in server platforms and desktops, and hence it is a fantastic server-side programming language. But it is not appropriate for mobile development. For mobile development, Python is a fragile language. Since it is not memory efficient and has a prolonged power for processing, due to these reasons, Python does not have many built-in mobile applications. Carbonnelle is a built-in application present in Python.
+Database access: Python provides easy programming. However, when it interacts with the database, some issues arise. Compared to technologies like JDBC and ODBC, which are pretty famous, the database access layer of the Python programming language is primitive and underdeveloped. Large enterprises that usually need smooth interaction with complex legacy data do not prefer the usage of Python.
+---
+#### **Applications of Python.**
+- Artificial Intelligence
+- Desktop Application
+- Automation
+- Web Development
+- Data Wrangling, Exploration And Visualisation.
 
 
 
