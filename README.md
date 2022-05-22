@@ -1,7 +1,7 @@
 ## **Python BoootCamp by Lux Academy and Data Science East Africa Guide.**
 
 --- 
-This is the Python3 BoootCamp by Lux Academy and Data Science East Africa learners guide. 
+This is the Python3 BoootCamp by Lux Academy and Data Science East Africa learners guide.To add a question to this list, please submit an [issue](https://github.com/HarunMbaabu/Python-BoootCamp-Guide/issues), or fork this repo and submit a pull request.
 
 ---
 
