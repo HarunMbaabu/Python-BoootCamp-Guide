@@ -10,9 +10,9 @@ This is the Python3 BoootCamp by Lux Academy and Data Science East Africa learne
 Python is an interpreted, high-level language created by Guido van Rossum and released in 1991.It is dynamically typed and garbage collected. 
 Python programs have the extension .py and can be run from the command line by typing python file_name.py.  
 
+
 ---
 - **Modern Python Road Map** 
-
 
 
 --- 
@@ -26,6 +26,7 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 --- 
 **1 - AN OVERVIEW OF PYTHON**
 - What is python programming language?
+   
 - Advantages and disadvantages of Python programming language.
 - Uses and application of Python programming language. 
 
@@ -149,8 +150,24 @@ Grabbing web content, Sending email and Using SSH for remote access
 **Final Project: Capstone Projects.** 
 These are two projects that test everything Python related to prepare you for any python related field, this might me, Python for data science and machine learning or python for web development. These projects will get you ready for junior python developers roles.
 —--
-Here you are comfortable to specialize into Python for Data Science or for Web development.
+Here you are comfortable to specialize into Python for Data Science or for Web development. 
 
+
+
+--- 
+### **What Is Python** 
+
+![image](https://user-images.githubusercontent.com/51136314/169713121-418f5164-b538-4c99-8b19-500a9b229690.png)
+
+Python is an interpreted, high-level language created by Guido van Rossum and released in 1991. It is dynamically typed and garbage collected.
+
+Python programs have the extension .py and can be run from the command line by typing python file_name.py.
+
+Probably its most noticeable characteristic is its use of significant white space to delimit code blocks, instead of the more popular {} symbols.
+
+End-of-line semicolons (;) are optional and usually not used in Python.
+
+Python becomes the best solution in many domains from web applications, data analysis, data science, machine learning, and AI.
 
 
 
