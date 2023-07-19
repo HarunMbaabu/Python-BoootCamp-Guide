@@ -28,7 +28,9 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 - What is python programming language?
 - Common Feature Provided By python.  
 - Advantages and disadvantages of Python programming language.
-- Uses and application of Python programming language. 
+- Uses and application of Python programming language.
+
+[ AN OVERVIEW OF PYTHON NoteBook](https://github.com/HarunMbaabu/Python-BoootCamp-Guide/blob/main/AN%20OVERVIEW%20OF%20PYTHON.ipynb)
 
 --- 
 **2 - THE PYTHON ENVIRONMENT**
