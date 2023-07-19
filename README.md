@@ -225,4 +225,11 @@ Python becomes the best solution in many domains from web applications, data ana
 - Data Wrangling, Exploration And Visualisation.
 
 
+## **Reference:**
+- **W3Schools Python Tutorial:** https://www.w3schools.com/python/
+- **Python Tutorial .net:** https://www.pythontutorial.net/
+- **Learn Python Programming by Programiz:** https://www.programiz.com/python-programming
+- **Python Full Course for Beginners by Mosh:** https://youtu.be/_uQrJ0TkZlc
+
+
 
