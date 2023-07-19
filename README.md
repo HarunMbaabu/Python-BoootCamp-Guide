@@ -38,7 +38,7 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 - Different methods for executing Python code and programs. 
 --- 
 
-**3 - GETTING STARTED: Python fundamentals.**. 
+**3 - GETTING STARTED: Python fundamentals.**
 - Python as a programming language , programming techniques supported python programming language and it’s programming language category.
 - Variables, defining and using variables in python programming language.  
 - Comments, keywords, identifiers, rules to follow when defining identifiers  literals. 
