@@ -30,7 +30,7 @@ End-of-line semicolons (;) are optional and usually not used in Python. Python b
 - Advantages and disadvantages of Python programming language.
 - Uses and application of Python programming language.
 
-[ AN OVERVIEW OF PYTHON NoteBook](https://github.com/HarunMbaabu/Python-BoootCamp-Guide/blob/main/AN%20OVERVIEW%20OF%20PYTHON.ipynb)
+[Link to AN OVERVIEW OF PYTHON NoteBook ](https://github.com/HarunMbaabu/Python-BoootCamp-Guide/blob/main/AN%20OVERVIEW%20OF%20PYTHON.ipynb)
 
 --- 
 **2 - THE PYTHON ENVIRONMENT**
